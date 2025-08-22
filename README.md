@@ -11,3 +11,5 @@ This is the IBM Certificates repository.
 * [certificate-sql.pdf](https://github.com/gwendalminguy/holbertonschool-france-certificates-ibm/tree/main/certificates-trimester-2/certificate-sql.pdf), certifying completion for the SQL course from IBM.
 
 * [certificate-project-management-1.pdf](https://github.com/gwendalminguy/holbertonschool-france-certificates-ibm/tree/main/certificates-trimester-2/certificate-project-management-1.pdf), certifying completion for the Project Management course from IBM.
+
+* [certificate-cloud.pdf](https://github.com/gwendalminguy/holbertonschool-france-certificates-ibm/tree/main/certificates-trimester-3/certificate-cloud.pdf), certifying completion for the Cloud course from IBM.
